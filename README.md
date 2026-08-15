@@ -27,26 +27,6 @@ Cloud Native: Containerized with multi-stage Docker builds and connected to an e
 Responsive UI: Dark-mode optimized dashboard for monitoring status indicators and latency trends.
 
 
-📦 Project Structure
-Plaintext
-uptime-pulse-fullstack/
-├── backend/
-│   ├── src/main/java/com/uptimepulse/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   ├── repositories/
-│   │   └── services/
-│   ├── pom.xml
-│   └── Dockerfile
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   └── App.jsx
-│   ├── package.json
-│   └── vite.config.js
-└── README.md
-
-
 🔧 Environment Variables
 
 Backend (application.properties / Render Environment)
